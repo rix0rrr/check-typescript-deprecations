@@ -1,6 +1,6 @@
 {
   "name": "check-typescript-deprecations",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Check your TypeScript project for use of deprecated APIs",
   "main": "index.js",
   "scripts": {
